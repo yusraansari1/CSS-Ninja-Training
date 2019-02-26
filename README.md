@@ -1,2 +1,2 @@
 # CSS-Ninja-Training
-CSS
+CSS Ninja Training
