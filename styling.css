@@ -1,0 +1,56 @@
+.contact {
+	text-align: right;
+}
+.name {
+	font-family: "Georgia",serif;
+	font-size: 40px;
+}
+.cv{
+    display: flex;
+}
+.side-bar-list{
+    list-style: none;
+    font-size: 17px;    
+}
+.side-bar-list-items{
+    padding: 0.6%;
+    margin: 0.6%;
+    text-align: left;
+}
+.side-bar-link{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    position: absolute;
+    left: 25%;
+    width: 50%;
+    text-align: center;
+}
+.side-bar-link:hover, .side-bar-link:active{
+    color: white;
+}
+.conta3{
+    padding-left: 3%;   
+    height: 100vh;
+    width: 75%;
+    margin-left:25%;
+}
+.silver{
+    color: #929191;
+}
+hr{
+    margin-top: 100%;
+    color: rgb(10,10,40)
+}
+.socials a{
+    display: inline-block;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #495057;
+    color: #010101;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3.5rem;
+    margin-right: 1rem;
+}
